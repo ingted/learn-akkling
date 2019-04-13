@@ -4,6 +4,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ObligatoryHelloWorld", "Obl
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StatefulActor", "StatefulActor\StatefulActor.fsproj", "{17D23382-B303-4B2A-ADB0-A96327191601}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CreateAnActor", "CreateAnActor\CreateAnActor.fsproj", "{1A56F20E-79C4-4A3B-B7B3-145F47D800B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{17D23382-B303-4B2A-ADB0-A96327191601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17D23382-B303-4B2A-ADB0-A96327191601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17D23382-B303-4B2A-ADB0-A96327191601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A56F20E-79C4-4A3B-B7B3-145F47D800B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A56F20E-79C4-4A3B-B7B3-145F47D800B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A56F20E-79C4-4A3B-B7B3-145F47D800B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A56F20E-79C4-4A3B-B7B3-145F47D800B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
