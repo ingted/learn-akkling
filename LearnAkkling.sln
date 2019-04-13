@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ObligatoryHelloWorld", "ObligatoryHelloWorld\ObligatoryHelloWorld.fsproj", "{16B2599F-46AB-49F1-8B8F-F60E3E0E7066}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StatefulActor", "StatefulActor\StatefulActor.fsproj", "{17D23382-B303-4B2A-ADB0-A96327191601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{16B2599F-46AB-49F1-8B8F-F60E3E0E7066}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16B2599F-46AB-49F1-8B8F-F60E3E0E7066}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16B2599F-46AB-49F1-8B8F-F60E3E0E7066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D23382-B303-4B2A-ADB0-A96327191601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D23382-B303-4B2A-ADB0-A96327191601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D23382-B303-4B2A-ADB0-A96327191601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D23382-B303-4B2A-ADB0-A96327191601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
