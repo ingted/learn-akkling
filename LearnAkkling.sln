@@ -8,6 +8,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CreateAnActor", "CreateAnAc
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "UseActorOf", "UseActorOf\UseActorOf.fsproj", "{AD1CA95D-557C-415B-BF65-C311BE450E7F}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Behaviors", "Behaviors\Behaviors.fsproj", "{FD6B1B6D-4154-42EF-BE75-4BA584C6BBD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{AD1CA95D-557C-415B-BF65-C311BE450E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD1CA95D-557C-415B-BF65-C311BE450E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD1CA95D-557C-415B-BF65-C311BE450E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6B1B6D-4154-42EF-BE75-4BA584C6BBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6B1B6D-4154-42EF-BE75-4BA584C6BBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6B1B6D-4154-42EF-BE75-4BA584C6BBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6B1B6D-4154-42EF-BE75-4BA584C6BBD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
